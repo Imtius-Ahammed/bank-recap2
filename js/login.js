@@ -8,7 +8,7 @@ document.getElementById('btn-submit').addEventListener('click', function(){
 
 
   if(email === 'sontan@baap.com' && password === 'secret' ){
-    window.location.href = 'index.html';
+    window.location.href = 'bank.html';
   }
   else{
     alert('Tui password vuila gesos!! Toke ami teijjo sontan gosona korlam.')
